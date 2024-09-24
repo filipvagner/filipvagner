@@ -2,11 +2,11 @@
 ```csharp
     if (iHaveFreeTime)
     { 
-      Console.WriteCode("For Fun");
+      Console.WriteHobby("Coding for fun");
     }
     else
     { 
-      Console.WriteWork("Azure Administrator");
+      Console.WriteWork("Azure Architect");
     }
 ```
-:panda_face: check out what I am into, on my [Pluralsight profile](https://app.pluralsight.com/profile/filip-vagner)
+:panda_face: visit my [LinkedIn profile](https://www.linkedin.com/in/filip-vagner-59960037)
